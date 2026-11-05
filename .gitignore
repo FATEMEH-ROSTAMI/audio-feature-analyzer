@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+
+# Audio files - do not upload personal recordings
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# Operating system files
+.DS_Store
+Thumbs.db
